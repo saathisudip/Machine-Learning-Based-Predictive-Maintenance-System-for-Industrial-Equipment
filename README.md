@@ -5,7 +5,7 @@ This project on Predictive Maintenance Using Machine Learning aims to revolution
 
 **Objective:** The core objective is to design, implement, and deploy a predictive maintenance system using machine learning algorithms. By leveraging past data, the system aims to forecast potential issues in industrial equipment, enabling timely intervention and minimizing downtime.
 
-**Data Source:** The project utilizes the Microsoft Azure Predictive Maintenance dataset from Kaggle as the foundation for training and testing machine learning models. Real-world data inclusion enhances the project's applicability and ensures the system is robust in addressing industrial maintenance challenges.
+**Data Source:** The project utilizes the [Microsoft Azure Predictive Maintenance dataset from Kaggle](https://www.kaggle.com/datasets/arnabbiswas1/microsoft-azure-predictive-maintenance) as the foundation for training and testing machine learning models. Real-world data inclusion enhances the project's applicability and ensures the system is robust in addressing industrial maintenance challenges.
 
 **Methodology:** The project employs a comprehensive methodology covering data preprocessing, feature engineering, application of machine learning algorithms, and deployment of trained models. Models are trained on historical data from the Microsoft Azure Predictive Maintenance dataset, learning patterns indicative of potential equipment failures.
 
