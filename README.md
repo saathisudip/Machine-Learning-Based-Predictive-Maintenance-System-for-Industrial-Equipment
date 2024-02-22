@@ -1,5 +1,5 @@
 # Machine-Learning-Based-Predictive-Maintenance-System-for-Industrial-Equipment
-Predictive Maintenance Using Machine Learning aims to revolutionize industrial equipment maintenance by leveraging advanced data analytics techniques. The primary focus is on developing a robust predictive maintenance system capable of anticipating and addressing potential issues before they escalate into critical breakdowns.
+This project on Predictive Maintenance Using Machine Learning aims to revolutionize industrial equipment maintenance by leveraging advanced data analytics techniques. The primary focus is on developing a robust predictive maintenance system capable of anticipating and addressing potential issues before they escalate into critical breakdowns.
 
 1. Overview:
 Predictive maintenance involves the proactive use of extensive data to predict and prevent system failures. In this project, we delve into the realm of industrial equipment, seeking to enhance maintenance strategies through the implementation of cutting-edge machine learning techniques.
