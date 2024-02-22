@@ -15,4 +15,4 @@ This project on Predictive Maintenance Using Machine Learning aims to revolution
 
 **Future Scope:** Beyond immediate goals, the project sets the stage for further advancements. Future iterations may explore additional data sources, refine machine learning models, and apply predictive analytics to diverse industrial sectors.
 
-**In conclusion**, the Predictive Maintenance System for Industrial Equipment Using Machine Learning project is a pivotal initiative with the potential to transform maintenance practices. Merging data science and industrial engineering, this capstone project strives to contribute to a future where equipment failures are predicted and prevented, ushering in a new era of efficiency and reliability in industrial operations.
+**Conclusion:** The Predictive Maintenance System for Industrial Equipment Using Machine Learning project is a pivotal initiative with the potential to transform maintenance practices. Merging data science and industrial engineering, this capstone project strives to contribute to a future where equipment failures are predicted and prevented, ushering in a new era of efficiency and reliability in industrial operations.
